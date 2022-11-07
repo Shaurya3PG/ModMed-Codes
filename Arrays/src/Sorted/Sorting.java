@@ -1,6 +1,7 @@
 package Sorted;
 
 import java.util.Scanner;
+import java.*;
 
 public class Sorting {
     public static Scanner sc = new Scanner(System.in);
